@@ -1,4 +1,4 @@
-@article{REPO-348,
+@article{REPO-347,
     author = "Kin-Chung Au, Oscar and Zheng, Youyi and Chen, Menglin and Xu, Pengfei and Tai, Chiew-Lan",
     journal = "IEEE Transactions on Visualization and Computer Graphics",
     number = "7",
